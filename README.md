@@ -7,7 +7,7 @@
 
 The official landing page for the **InAmigos Foundation**, a Section 8 registered, not-for-profit organization based in Chhattisgarh, India. We are dedicated to creating an inclusive, compassionate, and empowered society through structured, impact-driven projects.
 
-🔗 **Live Site:** [Insert your GitHub Pages URL here]
+🔗 **Live Site:** [[Insert your GitHub Pages URL here](https://in-amigos.vercel.app/)]
 
 ---
 
